@@ -3,8 +3,13 @@ uvicorn
 langchain
 langchain-openai
 langchain-community
+langchain-classic
+langchain-groq
+langchain-huggingface
+groq
+yt-dlp
 youtube-transcript-api
 chromadb
 tiktoken
 python-dotenv
-pytube
+imageio-ffmpeg
